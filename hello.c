@@ -4,6 +4,6 @@ int main(){
 
 	printf("Hello world");
 	printf("Test2");
-	printf("Conflict user 1");
+	printf("Solving conflict");
 	return 0;
 }
